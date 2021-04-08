@@ -1,6 +1,6 @@
 # train-stations-app
 
-## React-Native-App using TypeScript
+## React-Native-App using TypeScript and GraphQL
 
 ### Pre-requisites:
 - You have node.js installed in your system.
